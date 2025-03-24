@@ -6,4 +6,7 @@ Teste para ensinar como o git funciona
 Saiba mais no link: [http://instagram.com/vinee96] (instagram)
 Gostou do curso? Me segue!
 
-Apenas um teste!
+Apenas um teste!!!
+
+Finalizando o curso de Git e GitHub
+
